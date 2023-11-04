@@ -1,23 +1,10 @@
-// export default function About() {
-//     return (
-//       <div>
-//         <h1>About Page</h1>
-//         <p>
-//             My name is Yee Yang. I graduated from University of Minnesota, with Economics B.S. I like bloudering. 
-//             (~~ Needs work ~~) 
-//         </p>
-//       </div>
-//     );
-//   }
-  
-
 export default function About() {
   return (
     <div className="container my-5">
       <div className="row">
         <div className="col-md-4">
           <img
-            src="/imageplaceholder.jpg"
+            src="/about_image.jpg"
             alt="Your Name"
             className="img-fluid rounded-circle"
           />
@@ -28,7 +15,7 @@ export default function About() {
             I am a beginner web-developer. This portfolio was designed with React. 
           </p>
           <p>
-            I also enjoys climbing. 
+            I also enjoys climbing and a big fan of craft beers. 
           </p>
         </div>
       </div>
