@@ -18,7 +18,7 @@ export default function Projects() {
                     <a href="#" target="_blank" className="btn btn-primary">Link</a>
                 </div>
             </div>
-        </div>
+        
 
 
              <div className = "card shadow-sm p-3 m-5 bg-white rounded  style={{ width: '18rem' }}" >
@@ -70,6 +70,7 @@ export default function Projects() {
                     </div>
                 </div>
                 
+            </div>
         </div>
 
       </div>
