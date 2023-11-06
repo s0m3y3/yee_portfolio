@@ -2,7 +2,7 @@ export default function Projects() {
     return (
       <div>
         <h1 className="text-center">Project</h1>
-        <p> List of my projects. Please check them out! </p>
+        <p> List of my projects. Please click, for a deployed link! </p>
 
         <div className="container row row-cols-1 row-cols-md-2 lg-3">
 
@@ -20,9 +20,9 @@ export default function Projects() {
                 </div>
             </a>
 
-            <a href = "" class = "card shadow-sm pt-3 mb-5 bg-white rounded p-4" >
+            <a href = "https://s0m3y3.github.io/WeatherDashboard/" target="_blank" class = "card shadow-sm pt-3 mb-5 bg-white rounded p-4" >
             <h3 className="text-center"> Weather Dashboard </h3>
-                <img  class="card-img-top"  src="/blank-placeholder.jpeg" alt="Card image cap"></img>
+                <img  class="card-img-top"  src="/weatherDashboard.png" alt="Card image cap"></img>
                 <div >
                 </div>
             </a>

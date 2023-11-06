@@ -5,7 +5,6 @@ function NavTabs({ currentPage, handlePageChange }) {
         <li className="nav-item ">
           <a
             href="#home"
-            class = "text-white"
             onClick={() => handlePageChange('Home')}
             className={currentPage === 'Home' ? 'nav-link active text-black' : 'nav-link'}
           >
