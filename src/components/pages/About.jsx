@@ -3,11 +3,7 @@ export default function About() {
     <div className="container my-5">
       <div className="row">
         <div className="col-md-4">
-          <img
-            src="/about_image.jpg"
-            alt="Your Name"
-            className="img-fluid rounded-circle"
-          />
+          <img src="/about_image.jpg" alt="Missing profile photo" className="img-fluid rounded-circle p-3"/>
         </div>
         <div className="col-md-8 border text-center">
           <h2 className="mb-4 mt-5">About Me</h2>
