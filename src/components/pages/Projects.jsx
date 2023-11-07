@@ -14,7 +14,7 @@ export default function Projects() {
                         <h3 className="text-center"> 
                         Gamer's Paradise App
                         </h3>
-                        <img  className="card-img-top img-fluid"  src="/gamedice.png" alt="/blank-placeholder.jpeg"></img>
+                        <img  className="card-img-top img-fluid"  src="./gamedice.png" alt="./blank-placeholder.jpeg"></img>
                         <div className="p-2" > 
                         A Gamer's Blog. Post and comment about your favorite game, and create a user account!
                         </div>
@@ -30,7 +30,7 @@ export default function Projects() {
                         <h3 className="text-center"> 
                         Quotaku App
                         </h3>
-                        <img  className="card-img-top img-fluid"  src="/quotaku.png" alt="/blank-placeholder.jpeg"></img>
+                        <img  className="card-img-top img-fluid"  src="./quotaku.png" alt="/blank-placeholder.jpeg"></img>
                         <div className="p-2">
                         Imagine a situation where you are watching your favorite TV show and wanted to find a quick way to get to know more about your favorite character.
                         Well that is what our ease of use application is for! Find their famous quotes! 
@@ -47,7 +47,7 @@ export default function Projects() {
                         <h3 className="text-center"> 
                         Weather Dashboard App 
                         </h3>
-                        <img  className="card-img-top img-fluid"  src="/weatherDashboard3.png" alt="/blank-placeholder.jpeg"></img>
+                        <img  className="card-img-top img-fluid"  src="./weatherDashboard3.png" alt="./blank-placeholder.jpeg"></img>
                         <div className="p-2">
                         Enter a city name, and it will search today's and 5-day forcast for the weather. Great for travels, or event planning. 
                         </div>
@@ -63,7 +63,7 @@ export default function Projects() {
                         <h3 className="text-center"> 
                         README Generator 
                         </h3>
-                        <img  className="card-img-top img-fluid"  src="./readme.jpg" alt="/blank-placeholder.jpeg"></img>
+                        <img  className="card-img-top img-fluid"  src="./readme.jpg" alt="./blank-placeholder.jpeg"></img>
                         <div className="p-2">
                         Working on a new github project and want a faster way to generate a README.md file? This app is for you! 
                         </div>
