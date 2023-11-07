@@ -1,5 +1,5 @@
 # Yee's Portfolio - React
-Need work... 
+Welcome to my Portfolio - created with REACT. 
 
 ## Table of Contents (Optional)
 
@@ -13,10 +13,10 @@ Need work...
 Need work... 
 
 ## Installation
-Need work... 
+N/A
 
 ## Usage
-Need work... 
+Personal use only. This is my portfolio. 
 
 ## License
   MIT License
@@ -31,3 +31,4 @@ Need work...
 ## Contact
 
 Github Repo: [Link](https://github.com/s0m3y3/yee_portfolio)
+Live Deployment: [Link](https://sensational-flan-359753.netlify.app/#)

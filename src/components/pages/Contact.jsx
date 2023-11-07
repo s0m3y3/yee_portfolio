@@ -2,7 +2,7 @@ export default function Contact() {
     return (
         <div className="container mt-4">
             <form className="col-12 col-md-8 col-lg-6">
-                <h3 className="text-center">Contact me:</h3>
+                <h3 className="text-center">Contact Me:</h3>
                 <div className="mb-3">
                 <label htmlFor="username" className="form-label">
                     Name:
