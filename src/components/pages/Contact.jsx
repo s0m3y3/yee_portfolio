@@ -39,7 +39,7 @@ export default function Contact() {
                     ></textarea>
                 </div >
 
-                <div  className="text-center">
+                <div  className="text-center mb-5">
                     <button type="submit" className="btn btn-primary"> Submit </button>
                 </div>
 

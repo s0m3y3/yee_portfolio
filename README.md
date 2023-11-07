@@ -30,5 +30,5 @@ Personal use only. This is my portfolio.
 
 ## Contact
 
-Github Repo: [Link](https://github.com/s0m3y3/yee_portfolio)
+Github Repo: [Link](https://github.com/s0m3y3/yee_portfolio)  
 Live Deployment: [Link](https://sensational-flan-359753.netlify.app/#)
