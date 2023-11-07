@@ -10,7 +10,7 @@ Welcome to my Portfolio - created with REACT.
 - [Contact](#questions)
 
 ## Description
-Need work... 
+This project was created with REACT. Please visit my projects, and enjoy! 
 
 ## Installation
 N/A

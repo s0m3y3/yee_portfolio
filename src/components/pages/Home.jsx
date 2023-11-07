@@ -1,17 +1,22 @@
 export default function Home() {
     return (
+      
       <div       style={{
-        backgroundImage: 'url("./background2.jpg")',
+        backgroundImage: 'url("./backgroun.jpg")',
         backgroundSize: 'cover',
         backgroundPosition: 'center', 
       }}>
-      <div>
-        <a src=""></a>
-        <h1 className="m-5">Home Page</h1>
-        <p>
-            This is home page. (~~ Need Work ~~)
-        </p>
-      </div>
+        <img src="./background2.jpg" alt="missing image" width="800" height="600" ></img>
+        <div>
+          <a src=""></a>
+          <h1>Welcome</h1>
+          <p font-size='40px'>
+          "What we think, we become."—Buddha.
+          </p>
+          <p>
+            
+          </p>
+        </div>
       </div>
     );
   }
