@@ -15,7 +15,7 @@ export default function Footer() {
                 target="_blank"
                 className="btn btn-primary mr-3"
               >
-                GitHub
+                <img class="logo" src="./github.png" alt="GitHub" style={{ maxWidth: '30px' }}></img>
               </a>
 
               <a
@@ -23,11 +23,8 @@ export default function Footer() {
                 target="_blank"
                 className="btn btn-primary"
               >
-                Linkedin
+                <img class="logo" src="./linkedin.png" alt="LinkedIn" style={{ maxWidth: '30px' }}></img>
               </a>
-              
-
-
             </p>
           </div>
         </div>

@@ -74,6 +74,38 @@ export default function Projects() {
                     </div>
                 </div>
 
+                <div className="col mb-4">
+                    <div className = "card shadow-sm bg-white rounded h-100" >
+                        <h3 className="text-center"> 
+                        README Generator 
+                        </h3>
+                        <img  className="card-img-top img-fluid"  src="./readme.jpg" alt="./blank-placeholder.jpeg"></img>
+                        <div className="p-2">
+                        Working on a new github project and want a faster way to generate a README.md file? This app is for you! 
+                        </div>
+                        <div className="d-flex justify-content-center p-2">
+                        <a href="https://github.com/s0m3y3/readme_generator" target="_blank" className="btn btn-primary  mr-5">Github</a>
+                            <a target="_blank" className="btn btn-danger">No-Link</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col mb-4">
+                    <div className = "card shadow-sm bg-white rounded h-100" >
+                        <h3 className="text-center"> 
+                        README Generator 
+                        </h3>
+                        <img  className="card-img-top img-fluid"  src="./readme.jpg" alt="./blank-placeholder.jpeg"></img>
+                        <div className="p-2">
+                        Working on a new github project and want a faster way to generate a README.md file? This app is for you! 
+                        </div>
+                        <div className="d-flex justify-content-center p-2">
+                        <a href="https://github.com/s0m3y3/readme_generator" target="_blank" className="btn btn-primary  mr-5">Github</a>
+                            <a target="_blank" className="btn btn-danger">No-Link</a>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
       </div>
