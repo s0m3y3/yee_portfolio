@@ -14,7 +14,7 @@ export default function Projects() {
                         <h3 className="text-center"> 
                         Gamer's Paradise App
                         </h3>
-                        <img  className="card-img-top img-fluid"  src="./gamedice.png" alt="./blank-placeholder.jpeg"></img>
+                        <img  className="card-img-top img-fluid"  src="./gamedice.png" alt="Gamer's Paradise App"></img>
                         <div className="p-2" > 
                         A Gamer's Blog. Post and comment about your favorite game, and create a user account!
                         </div>
@@ -30,7 +30,7 @@ export default function Projects() {
                         <h3 className="text-center"> 
                         Quotaku App
                         </h3>
-                        <img  className="card-img-top img-fluid"  src="./quotaku.png" alt="/blank-placeholder.jpeg"></img>
+                        <img  className="card-img-top img-fluid"  src="./quotaku.png" alt="Quotaku App"></img>
                         <div className="p-2">
                         Imagine a situation where you are watching your favorite TV show and wanted to find a quick way to get to know more about your favorite character.
                         Well that is what our ease of use application is for! Find their famous quotes! 
@@ -47,7 +47,7 @@ export default function Projects() {
                         <h3 className="text-center"> 
                         Weather Dashboard App 
                         </h3>
-                        <img  className="card-img-top img-fluid"  src="./weatherDashboard3.png" alt="./blank-placeholder.jpeg"></img>
+                        <img  className="card-img-top img-fluid"  src="./weatherDashboard3.png" alt="Weather Dashboard App"></img>
                         <div className="p-2">
                         Enter a city name, and it will search today's and 5-day forcast for the weather. Great for travels, or event planning. 
                         </div>
@@ -63,7 +63,7 @@ export default function Projects() {
                         <h3 className="text-center"> 
                         README Generator 
                         </h3>
-                        <img  className="card-img-top img-fluid"  src="./readme.jpg" alt="./blank-placeholder.jpeg"></img>
+                        <img  className="card-img-top img-fluid"  src="./readme.jpg" alt="README Generator"></img>
                         <div className="p-2">
                         Working on a new github project and want a faster way to generate a README.md file? This app is for you! 
                         </div>
@@ -77,15 +77,15 @@ export default function Projects() {
                 <div className="col mb-4">
                     <div className = "card shadow-sm bg-white rounded h-100" >
                         <h3 className="text-center"> 
-                        README Generator 
+                        U.S. State Capital Quiz
                         </h3>
-                        <img  className="card-img-top img-fluid"  src="./readme.jpg" alt="./blank-placeholder.jpeg"></img>
+                        <img  className="card-img-top img-fluid"  src="./stateCapitalQuiz.png" alt="State Capital Quiz"></img>
                         <div className="p-2">
-                        Working on a new github project and want a faster way to generate a README.md file? This app is for you! 
+                        Refresh on your U.S. State Capital, with this quick and simple multiple-choice quiz!
                         </div>
                         <div className="d-flex justify-content-center p-2">
-                        <a href="https://github.com/s0m3y3/readme_generator" target="_blank" className="btn btn-primary  mr-5">Github</a>
-                            <a target="_blank" className="btn btn-danger">No-Link</a>
+                        <a href="https://github.com/s0m3y3/U.S.-State-Capital-Quiz" target="_blank" className="btn btn-primary  mr-5">Github</a>
+                            <a href="https://s0m3y3.github.io/U.S.-State-Capital-Quiz/" target="_blank" className="btn btn-danger">Link</a>
                         </div>
                     </div>
                 </div>
@@ -93,15 +93,15 @@ export default function Projects() {
                 <div className="col mb-4">
                     <div className = "card shadow-sm bg-white rounded h-100" >
                         <h3 className="text-center"> 
-                        README Generator 
+                        (Placeholder) 
                         </h3>
-                        <img  className="card-img-top img-fluid"  src="./readme.jpg" alt="./blank-placeholder.jpeg"></img>
+                        <img  className="card-img-top img-fluid"  src="./blank-placeholder.jpeg" alt="./blank-placeholder.jpeg"></img>
                         <div className="p-2">
-                        Working on a new github project and want a faster way to generate a README.md file? This app is for you! 
+                        No Description at this time...
                         </div>
                         <div className="d-flex justify-content-center p-2">
-                        <a href="https://github.com/s0m3y3/readme_generator" target="_blank" className="btn btn-primary  mr-5">Github</a>
-                            <a target="_blank" className="btn btn-danger">No-Link</a>
+                        <a href="" target="_blank" className="btn btn-primary  mr-5">Github - No Link</a>
+                            <a href="" target="_blank" className="btn btn-danger">No-Link</a>
                         </div>
                     </div>
                 </div>

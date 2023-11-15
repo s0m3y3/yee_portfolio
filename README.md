@@ -10,13 +10,13 @@ Welcome to my Portfolio - created with REACT.
 - [Contact](#questions)
 
 ## Description
-This project was created with REACT. Please visit my projects, and enjoy! 
+Discover my dynamic portfolio powered by React! Dive into my curated projects, connect with me on LinkedIn, and explore my resume. Your journey through my work is bound to inspire and captivate. Don't hesitate to reach out! 
 
 ## Installation
 N/A
 
 ## Usage
-Personal use only. This is my portfolio. 
+Personal use only, this is Yee's portfolio. 
 
 ## License
   MIT License
@@ -31,4 +31,4 @@ Personal use only. This is my portfolio.
 ## Contact
 
 Github Repo: [Link](https://github.com/s0m3y3/yee_portfolio)  
-Live Deployment: [Link](https://sensational-flan-359753.netlify.app/#)
+Live Deployment: [Netlify](https://sensational-flan-359753.netlify.app/#)

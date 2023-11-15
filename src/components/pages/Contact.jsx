@@ -1,6 +1,6 @@
 export default function Contact() {
     return (
-        <div className="container mt-4">
+        <div className="container mt-4 justify-content-center">
             <form className="col-12 col-md-8 col-lg-6">
                 <h3 className="text-center">Contact Me:</h3>
                 <div className="mb-3">
