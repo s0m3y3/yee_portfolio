@@ -1,4 +1,7 @@
+import projectList from "../../utils/projects"
+
 export default function Projects() {
+
     return (
       <div>
         <h1 className="text-center m-4">Project</h1>
