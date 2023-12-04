@@ -51,6 +51,6 @@ const projects = [
 ]
 
 
-export default function getBrowseData() {
+export default function projectData() {
 return projects;
 }
