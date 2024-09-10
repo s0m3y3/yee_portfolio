@@ -7,7 +7,7 @@ const yeeSkill = getYeeSkills();
       <div className="container my-5">
           <div className="md-4 text-center">
             <p> Resume:  
-                <a href="./public/resume.pdf" target="_blank"> PDF_Link</a>
+                <a href="https://drive.google.com/file/d/1QuQBcfM-g86RqwA-O44BspuWZiVfuJep/view?usp=sharing" target="_blank"> PDF_Link</a>
             </p>
 
             {yeeSkill.map((skillCategory, index) => (
