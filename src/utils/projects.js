@@ -18,7 +18,7 @@ const projects = [
         "description": "A Gamer's Blog. Post and comment about your favorite game, and create a user account!",
         "photoLink": gamerParadise,
         "githubRepo": "https://github.com/jaxongrosam/gamers-paradise",
-        "liveLink": "n/a"
+        "liveLink": "https://gamers-paradise-05f5c02b304d.herokuapp.com/"
     },
     {
         "name": "Quotaku App",
