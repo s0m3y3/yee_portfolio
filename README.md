@@ -27,4 +27,4 @@ Personal use only - this is my portfolio. But feel free to use it as a reference
 ## Contact
 
 Github Repo: [Link](https://github.com/s0m3y3/yee_portfolio)  
-Live Deployment: [Netlify](https://sensational-flan-359753.netlify.app/#)
+Live Deployment: [Netlify](https://yeeyang-profile.netlify.app/)
